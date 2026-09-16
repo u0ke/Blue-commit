@@ -4,9 +4,8 @@ import simpleGit from "simple-git";
 const path = "./data.json";
 const git = simpleGit();
 
-// 1 Jul 2025 → 30 Sep 2025 (months are 0-based: 6=July, 8=September)
-const start = new Date(2025, 6, 1, 9, 0, 0);
-const end   = new Date(2025, 8, 30, 18, 0, 0);
+const start = new Date(2026, 6, 1, 9, 0, 0);    // 1 Jul 2026
+const end   = new Date(2026, 8, 16, 18, 0, 0);  // 16 Sep 2026 = today
 
 const markCommit = async (date) => {
   const stamp = date.toISOString();
