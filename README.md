@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="[YOUR_BEACH_GIF_HERE](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlvZjRxczB4bWw4dDB3dXh4d3k4aTRwcjRxYm5jODZoeDB4dWtjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XwjMrd8a4AcwqOCYc9/giphy.gif)" width="100%">
+<img src="(https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHlvZjRxczB4bWw4dDB3dXh4d3k4aTRwcjRxYm5jODZoeDB4dWtjdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XwjMrd8a4AcwqOCYc9/giphy.gif)" width="100%">
 
 # 🌴 Hey, I'm Ice! 🏖️
 
