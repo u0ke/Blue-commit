@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="" width="100%">
+<img src="./giphy.gif" width="100%">
 
 # Hey I am Hamza
 
